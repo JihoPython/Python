@@ -1,5 +1,12 @@
 # Python
 __pycache__/
 
+# Python Virtual Environment
+env/
+
+# Python Dot Environment
+.env*
+!.env.example
+
 # IDE
 .vscode/
